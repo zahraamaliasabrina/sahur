@@ -44,7 +44,7 @@ $('.single-toggle.toggle').on('click', function() {
 makeItRain();
 
 new Typed('#typed',{
-        strings : ['Selamat Sahur Zahra &#128539;'],
+        strings : ['Selamat Sahur Zahra'],
         typeSpeed : 70,
         delaySpeed : 70,
         loop : true
